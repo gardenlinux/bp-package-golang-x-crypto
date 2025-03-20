@@ -2,6 +2,6 @@ pkg=golang-go.crypto
 version_orig=0.36.0
 version=1:$version_orig-1~exp1
 
-git_src -b "debian/1%version_orig-1~exp1" https://salsa.debian.org/go-team/packages/golang-go.crypto.git 
+git_src -b "debian/1%$version_orig-1_exp1" https://salsa.debian.org/go-team/packages/golang-go.crypto.git 
 
 version_suffix="gl0~bp1443"
