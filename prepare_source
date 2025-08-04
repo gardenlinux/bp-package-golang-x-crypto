@@ -4,4 +4,4 @@ version=1:$version_orig-1~exp1
 
 git_src -b "debian/1%$version_orig-1_exp1" https://salsa.debian.org/go-team/packages/golang-go.crypto.git 
 
-version_suffix="gl1~bp1592"
+version_suffix="gl2~bp1592"
